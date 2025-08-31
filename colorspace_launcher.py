@@ -8,3 +8,4 @@ if not file.exists():
 if sys.path[0] != str(file):
     sys.path.insert(0, str(file))
 import colorspace_demo
+colorspace_demo.main()
