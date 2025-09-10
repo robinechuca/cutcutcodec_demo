@@ -1,1 +1,1 @@
-cutcutcodec[doc,test]==1.4.0
+cutcutcodec[doc,test]==1.4.2
